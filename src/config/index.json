@@ -1,0 +1,125 @@
+{
+  "company": {
+    "name": "LEARN WITH DCC",
+    "logo": "/favicon.png"
+  },
+  "navigation": [
+    {
+      "name": "What we provide",
+      "href": "product"
+    },
+    {
+      "name": "Steps",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "https://discord.gg/uabYKB34"
+  },
+  "mainHero": {
+    "title": "LEARN WITH",
+    "subtitle": "DCC.",
+    "description": "LEARN WITH DCC IS AN INITIATIVE BY DEVELOPERS AND CODERS CLUB IN PARTNERSHIP WITH TRAINING AND PLACEMENT CELL OF NIT AGARTALA ,THROUGH OUR PROGRAMME WE PROVIDE VALUABLE  MENTORSHIP AND SUPPORT TO THE STUDENTS OF NIT AGARTALA ",
+    "img": "/assets/images/happyTeam.jpg",
+    "primaryAction": {
+      "text": "Join on discord",
+      "href": "https://discord.gg/uabYKB34"
+    },
+    "secondaryAction": {
+      "text": "Connect with us ",
+      "href": "https://dcc-links.netlify.app/"
+    }
+  },
+  "product": {
+    "title": "WHAT WILL YOU GET",
+    "items": [
+      {
+        "title": "OUR EXPERTS AT YOUR SERVICE ",
+        "description": "Our experts will not only continuously mentor you and provide with valuabe feedback but they will also help you to spot better opportunities ",
+        "img": "/assets/images/b.jpg"
+      },
+      {
+        "title": "LIFELONG CONNECTION",
+        "description": "Learn with DCC will act as a platform where you will build lifelong relations with your export mentors and your like minded peers ",
+        "img": "/assets/images/c.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "GET STARTED BY JOINING OUR DISCORD SERVER ",
+    "subtitle": "Follow these steps to get started",
+    "description": "We would urge  you to join our Discord server as Discord will act as the main communication channel when it comes to  learn with DCC. Here your mentors will share valuable resources with you and will be also provide you with feedback and continuously track your progress. ",
+   
+    "items": [
+      {
+        "name": "Join the Discord Server",
+       "description": "Use this link to join the 'Developers & Coders Club' Discord server)",
+       
+        "icon": "/assets/images/One.png"
+      },
+      {
+        "name": "Navigate to the 'Learn With DCC' Section",
+        "description": "Once you're in the server, find the 'Learn With DCC' section.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Enter the 'welcome-to-lwd' Channel",
+        "description": "Go to the 'welcome-to-lwd' channel within this section.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Register with the Command",
+        "description": "In the message box, type !join_lwd and hit enter.",
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Check Your Direct Messages of Discord",
+        "description": " Follow the instructions as provided by our bot Mr DCC.",
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Your group will be assigned ",
+        "description": " If you’ve already registered for the mentorship program, you will be automatically assigned to a mentorship group else our mentors will assign you a group shortly.",
+
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Your learning  begins ",
+        "description": "Once you’re assigned to a group, you can start chatting with your mentors. They are ready and waiting to help you!",
+        
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
